@@ -1,0 +1,11 @@
+E:\iti\c#\Day8\tasks\tasks\task1\bin\Debug\task1.exe.config
+E:\iti\c#\Day8\tasks\tasks\task1\bin\Debug\task1.exe
+E:\iti\c#\Day8\tasks\tasks\task1\bin\Debug\task1.pdb
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\learning.csproj.AssemblyReference.cache
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\task1.Form1.resources
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\task1.Properties.Resources.resources
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\learning.csproj.GenerateResource.cache
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\learning.csproj.CoreCompileInputs.cache
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\task1.exe
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\task1.pdb
+E:\iti\c#\Day8\tasks\tasks\task1\obj\Debug\task1.UserControl1.resources
